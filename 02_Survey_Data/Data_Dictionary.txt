@@ -1,0 +1,20 @@
+Column_Name,Data_Type,Description,Example_Values,Notes
+Respondent_ID,Text,Unique identifier for each survey response,R001-R100,Sequential numbering for all 100 responses
+Age_Group,Category,Respondent's age category,"18-25, 26-35, 36-45, 45+",Used for demographic segmentation
+Income_Bracket,Category,Annual income range in INR,"<25K, 25-50K, 50-100K, >100K",Self-reported by respondent
+Location_Type,Category,Type of area where respondent resides,"Urban, Semi-urban, Rural",Affects purchase behavior and channel preference
+Current_Phone_Brand,Text,Brand of smartphone currently using,Samsung; Apple; OnePlus; Xiaomi; Realme; Vivo; Moto; Nokia; Sony,Important for brand loyalty analysis
+Current_Phone_Age_Years,Numeric,How long respondent has owned their current phone,"1, 2, 3, 4 years",Indicates upgrade frequency
+Upgrade_Frequency_Years,Numeric,Average frequency of smartphone upgrade,"2, 3, 4, 5 years",Higher income = longer intervals
+Price_Importance,Numeric (1-5 scale),Importance rating for price as purchase factor,"1 (Not Important) to 5 (Very Important)",Average: 4.0/5
+Performance_Importance,Numeric (1-5 scale),Importance rating for phone performance/speed,"1 (Not Important) to 5 (Very Important)",Average: 3.8/5
+Camera_Importance,Numeric (1-5 scale),Importance rating for camera quality,"1 (Not Important) to 5 (Very Important)",Average: 3.5/5
+Brand_Importance,Numeric (1-5 scale),Importance rating for brand reputation,"1 (Not Important) to 5 (Very Important)",Average: 2.8/5
+Design_Importance,Numeric (1-5 scale),Importance rating for design and aesthetics,"1 (Not Important) to 5 (Very Important)",Average: 2.5/5
+Battery_Importance,Numeric (1-5 scale),Importance rating for battery life,"1 (Not Important) to 5 (Very Important)",Average: 2.0/5
+Primary_Info_Source,Category,Main source used to research phones before purchase,"YouTube Reviews, Peer Recommendations, Brand Website, E-commerce Reviews, Tech Blogs, In-Store Staff",45% use YouTube; 20% use peers
+Secondary_Info_Source,Category,Secondary source used for phone research,"YouTube Reviews, Peer Recommendations, Brand Website, E-commerce Reviews, Tech Blogs, In-Store Staff",Cross-referencing and validation
+Preferred_Purchase_Channel,Category,Preferred way to buy smartphone,"Online, In-Store",70% prefer Online; 30% prefer In-Store
+Average_Budget_Range,Text,Budget range in INR when planning to buy next phone,"15K-25K, 25K-40K, 40K-70K, 50K-80K, 60K-100K, 70K-120K, 80K-150K",Higher income = higher budget
+Satisfaction_Score,Numeric (1-10 scale),Satisfaction with current phone,1-10 scale,Mean: 7.8/10; StdDev: 1.2
+Likelihood_to_Recommend,Numeric (1-10 scale),Likelihood to recommend current phone to others,"1 (Very Unlikely) to 10 (Very Likely)",Mean: 8.1/10; Correlates with satisfaction
