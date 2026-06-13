@@ -1,0 +1,179 @@
+SMARTPHONE PURCHASING BEHAVIOR SURVEY
+=====================================
+
+SURVEY QUESTIONNAIRE (100 Respondents)
+Date: January 2025
+Duration: 4 weeks
+Method: Google Forms (online)
+
+---
+
+SECTION A: DEMOGRAPHIC INFORMATION
+
+Q1. What is your age group?
+   [ ] 18-25
+   [ ] 26-35
+   [ ] 36-45
+   [ ] 45+
+
+Q2. What is your annual income bracket?
+   [ ] Less than ₹25,000
+   [ ] ₹25,000 - ₹50,000
+   [ ] ₹50,000 - ₹100,000
+   [ ] More than ₹100,000
+
+Q3. What type of area do you live in?
+   [ ] Urban (Metropolitan/City)
+   [ ] Semi-urban (Small city/Town)
+   [ ] Rural (Village/Remote)
+
+---
+
+SECTION B: CURRENT PHONE USAGE
+
+Q4. What is your current smartphone brand?
+   [ ] Apple
+   [ ] Samsung
+   [ ] OnePlus
+   [ ] Xiaomi
+   [ ] Realme
+   [ ] Vivo
+   [ ] Moto
+   [ ] Nokia
+   [ ] Sony
+   [ ] Other: ________
+
+Q5. How long have you owned your current phone? (in years)
+   [ ] Less than 1 year
+   [ ] 1-2 years
+   [ ] 2-3 years
+   [ ] 3-4 years
+   [ ] More than 4 years
+
+Q6. On average, how frequently do you upgrade your smartphone? (in years)
+   [ ] Every 1-2 years
+   [ ] Every 2-3 years
+   [ ] Every 3-4 years
+   [ ] Every 4-5 years
+   [ ] Every 5+ years
+
+---
+
+SECTION C: PURCHASE DECISION FACTORS
+
+[Rate each factor on a scale of 1-5, where 1 = Not Important, 5 = Very Important]
+
+Q7. How important is PRICE in your smartphone purchase decision?
+   [ ] 1 - Not Important
+   [ ] 2 - Slightly Important
+   [ ] 3 - Moderately Important
+   [ ] 4 - Important
+   [ ] 5 - Very Important
+
+Q8. How important is PERFORMANCE/SPEED (processor, RAM)?
+   [ ] 1 - Not Important
+   [ ] 2 - Slightly Important
+   [ ] 3 - Moderately Important
+   [ ] 4 - Important
+   [ ] 5 - Very Important
+
+Q9. How important is CAMERA QUALITY?
+   [ ] 1 - Not Important
+   [ ] 2 - Slightly Important
+   [ ] 3 - Moderately Important
+   [ ] 4 - Important
+   [ ] 5 - Very Important
+
+Q10. How important is BRAND REPUTATION?
+   [ ] 1 - Not Important
+   [ ] 2 - Slightly Important
+   [ ] 3 - Moderately Important
+   [ ] 4 - Important
+   [ ] 5 - Very Important
+
+Q11. How important is DESIGN/AESTHETICS?
+   [ ] 1 - Not Important
+   [ ] 2 - Slightly Important
+   [ ] 3 - Moderately Important
+   [ ] 4 - Important
+   [ ] 5 - Very Important
+
+Q12. How important is BATTERY LIFE?
+   [ ] 1 - Not Important
+   [ ] 2 - Slightly Important
+   [ ] 3 - Moderately Important
+   [ ] 4 - Important
+   [ ] 5 - Very Important
+
+---
+
+SECTION D: INFORMATION & RESEARCH
+
+Q13. What is your PRIMARY source for researching phones before purchase?
+   [ ] YouTube reviews
+   [ ] Peer recommendations (friends/family)
+   [ ] Official brand websites
+   [ ] E-commerce website reviews (Amazon, Flipkart)
+   [ ] Tech blogs/websites
+   [ ] In-store staff
+   [ ] Other: ________
+
+Q14. What is your SECONDARY source for phone research?
+   [ ] YouTube reviews
+   [ ] Peer recommendations (friends/family)
+   [ ] Official brand websites
+   [ ] E-commerce website reviews (Amazon, Flipkart)
+   [ ] Tech blogs/websites
+   [ ] In-store staff
+   [ ] Other: ________
+
+---
+
+SECTION E: PURCHASE CHANNEL & BUDGET
+
+Q15. Where do you prefer to purchase your next smartphone?
+   [ ] Online (Amazon, Flipkart, brand websites)
+   [ ] In-store (authorized retailers, mobile shops)
+   [ ] No preference
+
+Q16. What is your typical budget when planning to buy a new smartphone?
+   [ ] ₹15,000 - ₹25,000
+   [ ] ₹25,000 - ₹40,000
+   [ ] ₹40,000 - ₹70,000
+   [ ] ₹50,000 - ₹80,000
+   [ ] ₹60,000 - ₹100,000
+   [ ] ₹70,000 - ₹120,000
+   [ ] ₹80,000 - ₹150,000
+   [ ] Above ₹150,000
+
+---
+
+SECTION F: SATISFACTION & LOYALTY
+
+Q17. How satisfied are you with your current smartphone? (1-10 scale)
+   1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9 [ ] 10 [ ]
+   (1 = Very Dissatisfied, 10 = Very Satisfied)
+
+Q18. How likely are you to recommend your current phone to others? (1-10 scale)
+   1 [ ] 2 [ ] 3 [ ] 4 [ ] 5 [ ] 6 [ ] 7 [ ] 8 [ ] 9 [ ] 10 [ ]
+   (1 = Very Unlikely, 10 = Very Likely)
+
+---
+
+SURVEY STATISTICS:
+- Total Respondents: 100
+- Response Rate: 97% (3 incomplete responses excluded)
+- Survey Duration: 4 weeks (Jan 1-31, 2025)
+- Average Time to Complete: 4-5 minutes
+- Geographic Coverage: All-India (urban, semi-urban, rural)
+- Gender Distribution: 58% Male, 42% Female (balanced)
+- Response Quality: High (low missing data, consistent patterns)
+
+---
+
+SURVEY ADMINISTRATION NOTES:
+- Platform: Google Forms
+- Distribution: WhatsApp groups, social media, direct links
+- Follow-up: 2 reminder messages sent
+- Data validation: Checked for logical consistency and outliers
+- Clean dataset: 97 responses after removing 3 incomplete entries
